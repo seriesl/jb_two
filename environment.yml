@@ -1,0 +1,9 @@
+name: jb_two
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter-book=0.11.2
+  - numpy
+  - matplotlib
+  - ghp-import
